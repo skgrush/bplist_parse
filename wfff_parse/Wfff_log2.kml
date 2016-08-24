@@ -1,0 +1,3065 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        
+        <Style id="secureap">
+            <IconStyle>
+                <Icon>
+                    <href>images/secureap.png</href>
+                </Icon>
+                <hotSpot x="0.5"  y="0" xunits="fraction" yunits="fraction"/>
+            </IconStyle>
+            
+        </Style>
+        <Style id="openap">
+            <IconStyle><Icon><href>images/openap.png</href></Icon>
+                <hotSpot x="0.5"  y="0" xunits="fraction" yunits="fraction"/>
+            </IconStyle>
+            
+        </Style>
+        
+    <name>01 May 2014 18:33:13</name>
+<description>WiFiFoFum Scan Log</description>
+
+<Style id="dltrackline">
+    <LineStyle>
+        <color>ff3250dc</color>
+        <width>4</width>
+    </LineStyle>
+</Style>
+
+<Folder>
+    <name>Access Points</name>
+    <Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[westell5376]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[E0469AEBB880]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-85]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 18, 24, 36, 54, 6, 9, 12, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[205]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95420384398133, -91.77848900919344]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[5.755135536193848]]></value></Data>
+<Data name="Course"><value><![CDATA[269.5488586425781]]></value></Data>
+<Data name="Altitude"><value><![CDATA[335]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:32]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:32]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77848900919344,37.95420384398133,335</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[EBSD-NET]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[841B5EF908DE]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-94]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 18, 24, 36, 54, 6, 9, 12, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[337]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95868928547758, -91.78243668758476]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[0]]></value></Data>
+<Data name="Course"><value><![CDATA[-1]]></value></Data>
+<Data name="Altitude"><value><![CDATA[371]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:33:26]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:33:26]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78243668758476,37.95868928547758,371</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-PSK-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[24DEC6C66190]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-91]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[373]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95706453736681, -91.78287615076805]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[7.861645698547363]]></value></Data>
+<Data name="Course"><value><![CDATA[198.984375]]></value></Data>
+<Data name="Altitude"><value><![CDATA[362]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:33:55]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:33:55]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78287615076805,37.95706453736681,362</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[SSERVICE]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[20AA4B397513]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-92]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 18, 24, 36, 54, 6, 9, 12, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[15]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95875850302992, -91.78224473536829]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[5.724290370941162]]></value></Data>
+<Data name="Course"><value><![CDATA[88.62199401855469]]></value></Data>
+<Data name="Altitude"><value><![CDATA[352]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:10]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:11]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78224473536829,37.95875850302992,352</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-COER-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E28B4]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-93]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[416]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95420976756303, -91.77753492809643]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[0]]></value></Data>
+<Data name="Course"><value><![CDATA[89.54885864257812]]></value></Data>
+<Data name="Altitude"><value><![CDATA[342]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:38:50]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:38:50]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77753492809643,37.95420976756303,342</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-PSK-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8986F71]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-71]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[437]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95942408501912, -91.77902701319361]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[3.387912273406982]]></value></Data>
+<Data name="Course"><value><![CDATA[357.5390625]]></value></Data>
+<Data name="Altitude"><value><![CDATA[357]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:49]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:49]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77902701319361,37.95942408501912,357</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-PSK-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C89871B1]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-75]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[212]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95946591071594, -91.7790293601265]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[4.2433180809021]]></value></Data>
+<Data name="Course"><value><![CDATA[357.5390625]]></value></Data>
+<Data name="Altitude"><value><![CDATA[357]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:50]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:51]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.7790293601265,37.95946591071594,357</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-WPA-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[00246C30E740]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-85]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[171]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95704307969469, -91.78291026511396]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[7.336177349090576]]></value></Data>
+<Data name="Course"><value><![CDATA[208.125]]></value></Data>
+<Data name="Altitude"><value><![CDATA[360]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:33:56]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:33:56]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78291026511396,37.95704307969469,360</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-WPA-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E2561]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-95]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[0]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95637746562237, -91.78233737569826]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[12.51223564147949]]></value></Data>
+<Data name="Course"><value><![CDATA[309.4231262207031]]></value></Data>
+<Data name="Altitude"><value><![CDATA[350]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:42:41]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:42:41]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78233737569826,37.95637746562237,350</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[pc2rmc8v]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6C504D3FA466]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-91]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[0]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95723232714921, -91.78278193612641]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[9.179994583129883]]></value></Data>
+<Data name="Course"><value><![CDATA[353.8407897949219]]></value></Data>
+<Data name="Altitude"><value><![CDATA[349]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:42:52]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:42:52]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78278193612641,37.95723232714921,349</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[Turdnet]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[00173F814290]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-87]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[455]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95420531619583, -91.77825188384304]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[7.896449565887451]]></value></Data>
+<Data name="Course"><value><![CDATA[269.5488586425781]]></value></Data>
+<Data name="Altitude"><value><![CDATA[339]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:28]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:28]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77825188384304,37.95420531619583,339</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-WPA-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E38A0]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-81]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[17]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95840003104933, -91.78250661680067]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[10.316725730896]]></value></Data>
+<Data name="Course"><value><![CDATA[9.522262573242188]]></value></Data>
+<Data name="Altitude"><value><![CDATA[351]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:04]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:05]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78250661680067,37.95840003104933,351</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[Martens.guests]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[0A863B21B7D0]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-80]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 18, 24, 36, 54, 6, 9, 12, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[145]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95419789006419, -91.7789876664574]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[6.313517570495605]]></value></Data>
+<Data name="Course"><value><![CDATA[268.9806213378906]]></value></Data>
+<Data name="Altitude"><value><![CDATA[336]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:40]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:41]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.7789876664574,37.95419789006419,336</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[FBI Surveillance Van]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[944452FEAAB0]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-78]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[5]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[84]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95418603140983, -91.77970235151861]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[8.729996681213379]]></value></Data>
+<Data name="Course"><value><![CDATA[267.273681640625]]></value></Data>
+<Data name="Altitude"><value><![CDATA[343]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:47]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:48]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77970235151861,37.95418603140983,343</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[PS4-A56E8A62A3EB]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[B005941AEB01]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-87]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[207]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95877208038053, -91.78055225886055]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[11.01110172271729]]></value></Data>
+<Data name="Course"><value><![CDATA[90.58041381835938]]></value></Data>
+<Data name="Altitude"><value><![CDATA[352]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:25]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:26]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78055225886055,37.95877208038053,352</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#openap</styleUrl>
+    <name><![CDATA[motorola 6C6]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[000CE54B96C6]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-91]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 18, 24, 36, 54, 6, 9, 12, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[391]]></value></Data>
+<Data name="Secure"><value><![CDATA[No]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95419040493992, -91.77949017690025]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[8.726143836975098]]></value></Data>
+<Data name="Course"><value><![CDATA[268.7039489746094]]></value></Data>
+<Data name="Altitude"><value><![CDATA[341]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:45]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:45]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77949017690025,37.95419040493992,341</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[GET OFF MY LAN]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[0024A5D86183]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-93]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[431]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.9599515581857, -91.78007693038488]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[4.821519374847412]]></value></Data>
+<Data name="Course"><value><![CDATA[273.1640625]]></value></Data>
+<Data name="Altitude"><value><![CDATA[357]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:44:16]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:44:16]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78007693038488,37.9599515581857,357</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[NETGEAR39]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[9CD36DB3122C]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-88]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 18, 24, 36, 54, 6, 9, 12, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[13]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95449049112143, -91.77719717417018]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[8.959081649780273]]></value></Data>
+<Data name="Course"><value><![CDATA[222.890625]]></value></Data>
+<Data name="Altitude"><value><![CDATA[347]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:34:56]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:34:56]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77719717417018,37.95449049112143,347</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[<Hidden Network>]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[60A44C665927]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-97]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 18, 24, 36, 54, 6, 9, 12, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[234]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.9587769662022, -91.781184365027]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[9.929435729980469]]></value></Data>
+<Data name="Course"><value><![CDATA[90]]></value></Data>
+<Data name="Altitude"><value><![CDATA[353]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:20]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:20]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.781184365027,37.9587769662022,353</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#openap</styleUrl>
+    <name><![CDATA[MST-PUBLIC-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E28B2]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-94]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[442]]></value></Data>
+<Data name="Secure"><value><![CDATA[No]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95421280428754, -91.77724390612639]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[3.001359224319458]]></value></Data>
+<Data name="Course"><value><![CDATA[89.06844329833984]]></value></Data>
+<Data name="Altitude"><value><![CDATA[346]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:13]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:13]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77724390612639,37.95421280428754,346</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#openap</styleUrl>
+    <name><![CDATA[SMW]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[00900E03200B]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-97]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 9, 18, 36, 54, 6, 12, 24, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[167]]></value></Data>
+<Data name="Secure"><value><![CDATA[No]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95696491844762, -91.78301277578974]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[6.620546340942383]]></value></Data>
+<Data name="Course"><value><![CDATA[220.4296875]]></value></Data>
+<Data name="Altitude"><value><![CDATA[356]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:33:58]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:33:58]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78301277578974,37.95696491844762,356</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[Router826]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[EE43F67C5B3C]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-87]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 9, 18, 36, 54, 6, 12, 24, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[8]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95419650201296, -91.77908659264176]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[7.327713966369629]]></value></Data>
+<Data name="Course"><value><![CDATA[268.9806213378906]]></value></Data>
+<Data name="Altitude"><value><![CDATA[335]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:41]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:42]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77908659264176,37.95419650201296,335</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#openap</styleUrl>
+    <name><![CDATA[OAKNET_WIFI]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[AC8674147C3A]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-84]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[8]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[250]]></value></Data>
+<Data name="Secure"><value><![CDATA[No]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95696491844762, -91.78301277578974]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[6.620546340942383]]></value></Data>
+<Data name="Course"><value><![CDATA[220.4296875]]></value></Data>
+<Data name="Altitude"><value><![CDATA[356]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:33:58]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:33:58]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78301277578974,37.95696491844762,356</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[TeamScience]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[0014BFF64A9E]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-94]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 18, 24, 36, 54, 6, 9, 12, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[244]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95420304417063, -91.77861782791297]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[4.160135746002197]]></value></Data>
+<Data name="Course"><value><![CDATA[269.5488586425781]]></value></Data>
+<Data name="Altitude"><value><![CDATA[336]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:37]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:37]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77861782791297,37.95420304417063,336</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[ARRIS-7762]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[5C571ABB7760]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-79]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 9, 18, 36, 54, 6, 12, 24, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[447]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95420303281114, -91.77861965089505]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[3.941200971603394]]></value></Data>
+<Data name="Course"><value><![CDATA[269.5488586425781]]></value></Data>
+<Data name="Altitude"><value><![CDATA[335]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:36]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:36]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77861965089505,37.95420303281114,335</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[NETGEAR79]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[C40415025685]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-87]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[7]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 18, 24, 36, 54, 6, 9, 12, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[288]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95421310841177, -91.77722017584529]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[2.993037700653076]]></value></Data>
+<Data name="Course"><value><![CDATA[89.06844329833984]]></value></Data>
+<Data name="Altitude"><value><![CDATA[345]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:14]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:15]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77722017584529,37.95421310841177,345</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#openap</styleUrl>
+    <name><![CDATA[MST-PUBLIC-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8F191F1]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-65]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[389]]></value></Data>
+<Data name="Secure"><value><![CDATA[No]]></value></Data>
+<Data name="Location"><value><![CDATA[37.9587769662022, -91.781184365027]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[9.929435729980469]]></value></Data>
+<Data name="Course"><value><![CDATA[90]]></value></Data>
+<Data name="Altitude"><value><![CDATA[353]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:20]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:20]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.781184365027,37.9587769662022,353</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[belkin.57c]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[EC1A599B657C]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-80]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[15]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95417714416251, -91.77989193449321]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[8.440316200256348]]></value></Data>
+<Data name="Course"><value><![CDATA[266.0740966796875]]></value></Data>
+<Data name="Altitude"><value><![CDATA[344]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:49]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:49]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77989193449321,37.95417714416251,344</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[HQ]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[20AA4B6655E3]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-87]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[3]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[77]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95512172572396, -91.78020632069092]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[0.3368696570396423]]></value></Data>
+<Data name="Course"><value><![CDATA[0.775676965713501]]></value></Data>
+<Data name="Altitude"><value><![CDATA[342]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:42:19]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:42:19]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78020632069092,37.95512172572396,342</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-PSK-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[00246C30E7F1]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-75]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[35]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95877505431407, -91.78092463276698]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[11.05961227416992]]></value></Data>
+<Data name="Course"><value><![CDATA[90.58041381835938]]></value></Data>
+<Data name="Altitude"><value><![CDATA[352]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:22]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:23]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78092463276698,37.95877505431407,352</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[Marsalas]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[4494FC11DDB6]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-89]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 18, 24, 36, 54, 6, 9, 12, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[160]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95877909757007, -91.78235622131432]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[-1]]></value></Data>
+<Data name="Course"><value><![CDATA[-1]]></value></Data>
+<Data name="Altitude"><value><![CDATA[351]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:33:11]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:33:11]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78235622131432,37.95877909757007,351</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[westell9728]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[E0469AC6D113]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-94]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 18, 24, 36, 54, 6, 9, 12, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[235]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95877533208773, -91.78152551110543]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[9.61858081817627]]></value></Data>
+<Data name="Course"><value><![CDATA[89.15328979492188]]></value></Data>
+<Data name="Altitude"><value><![CDATA[352]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:17]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:17]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78152551110543,37.95877533208773,352</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-PSK-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8986591]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-77]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[432]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95877103743852, -91.78042171202833]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[11.01002407073975]]></value></Data>
+<Data name="Course"><value><![CDATA[90.58041381835938]]></value></Data>
+<Data name="Altitude"><value><![CDATA[353]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:26]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:26]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78042171202833,37.95877103743852,353</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[CenturyLink3044]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[FEF528237C50]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-95]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 9, 18, 36, 54, 6, 12, 24, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[51]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.9587324103694, -91.78240357906724]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[0]]></value></Data>
+<Data name="Course"><value><![CDATA[-1]]></value></Data>
+<Data name="Altitude"><value><![CDATA[359]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:33:17]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:33:17]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78240357906724,37.9587324103694,359</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[<Hidden Network>]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8F18EF4]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-88]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[443]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95877308718096, -91.78067836721311]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[11.06123065948486]]></value></Data>
+<Data name="Course"><value><![CDATA[90.58041381835938]]></value></Data>
+<Data name="Altitude"><value><![CDATA[352]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:24]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:25]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78067836721311,37.95877308718096,352</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-PSK-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E24D0]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-93]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[160]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95685381632108, -91.78307765172029]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[7.11234188079834]]></value></Data>
+<Data name="Course"><value><![CDATA[198.28125]]></value></Data>
+<Data name="Altitude"><value><![CDATA[356]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:34:00]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:34:01]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78307765172029,37.95685381632108,356</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[pcrmc-net3]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6C504D3FA468]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-91]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[0]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95723232714921, -91.78278193612641]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[9.179994583129883]]></value></Data>
+<Data name="Course"><value><![CDATA[353.8407897949219]]></value></Data>
+<Data name="Altitude"><value><![CDATA[349]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:42:52]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:42:52]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78278193612641,37.95723232714921,349</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#openap</styleUrl>
+    <name><![CDATA[belkin.57c.guests]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[EC1A599B657F]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-80]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[12]]></value></Data>
+<Data name="Secure"><value><![CDATA[No]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95417714416251, -91.77989193449321]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[8.440316200256348]]></value></Data>
+<Data name="Course"><value><![CDATA[266.0740966796875]]></value></Data>
+<Data name="Altitude"><value><![CDATA[344]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:49]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:49]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77989193449321,37.95417714416251,344</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-COER-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E2A44]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-90]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[233]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95507002159763, -91.77910555162633]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[16.05451583862305]]></value></Data>
+<Data name="Course"><value><![CDATA[93.515625]]></value></Data>
+<Data name="Altitude"><value><![CDATA[342]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:34:31]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:34:31]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77910555162633,37.95507002159763,342</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-PSK-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E2A40]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-90]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[239]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95507002159763, -91.77910555162633]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[16.05451583862305]]></value></Data>
+<Data name="Course"><value><![CDATA[93.515625]]></value></Data>
+<Data name="Altitude"><value><![CDATA[342]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:34:31]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:34:31]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77910555162633,37.95507002159763,342</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[linksys2012]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[98FC11CFA6B5]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-90]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[200]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95419789006419, -91.7789876664574]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[6.313517570495605]]></value></Data>
+<Data name="Course"><value><![CDATA[268.9806213378906]]></value></Data>
+<Data name="Altitude"><value><![CDATA[336]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:40]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:41]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.7789876664574,37.95419789006419,336</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[Well hey there buddy]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[EC1A5900D94E]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-100]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 9, 18, 36, 54, 6, 12, 24, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[438]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95573316953526, -91.78131119173486]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[12.83371162414551]]></value></Data>
+<Data name="Course"><value><![CDATA[303.1236572265625]]></value></Data>
+<Data name="Altitude"><value><![CDATA[347]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:42:32]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:42:32]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78131119173486,37.95573316953526,347</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-WPA-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8986F70]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-70]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[439]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95942408501912, -91.77902701319361]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[3.387912273406982]]></value></Data>
+<Data name="Course"><value><![CDATA[357.5390625]]></value></Data>
+<Data name="Altitude"><value><![CDATA[357]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:49]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:49]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77902701319361,37.95942408501912,357</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-PSK-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8986261]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-81]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[13]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95877208038053, -91.78055225886055]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[11.01110172271729]]></value></Data>
+<Data name="Course"><value><![CDATA[90.58041381835938]]></value></Data>
+<Data name="Altitude"><value><![CDATA[352]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:25]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:26]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78055225886055,37.95877208038053,352</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[<Hidden Network>]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8F19174]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-88]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[210]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95877505431407, -91.78092463276698]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[11.05961227416992]]></value></Data>
+<Data name="Course"><value><![CDATA[90.58041381835938]]></value></Data>
+<Data name="Altitude"><value><![CDATA[352]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:22]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:23]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78092463276698,37.95877505431407,352</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-PSK-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E2920]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-95]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[3]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95420941180478, -91.77759222429813]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[0]]></value></Data>
+<Data name="Course"><value><![CDATA[89.54885864257812]]></value></Data>
+<Data name="Altitude"><value><![CDATA[345]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:37:44]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:37:44]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77759222429813,37.95420941180478,345</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-COER-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8F191F3]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-67]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[385]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.9587769662022, -91.781184365027]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[9.929435729980469]]></value></Data>
+<Data name="Course"><value><![CDATA[90]]></value></Data>
+<Data name="Altitude"><value><![CDATA[353]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:20]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:20]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.781184365027,37.9587769662022,353</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-PSK-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E2560]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-92]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[407]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95734134971905, -91.78275167950595]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[12.53619384765625]]></value></Data>
+<Data name="Course"><value><![CDATA[188.0859375]]></value></Data>
+<Data name="Altitude"><value><![CDATA[361]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:33:51]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:33:52]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78275167950595,37.95734134971905,361</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[westell2766]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[E0469AD8816D]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-95]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 18, 24, 36, 54, 6, 9, 12, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[248]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95573316953526, -91.78131119173486]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[12.83371162414551]]></value></Data>
+<Data name="Course"><value><![CDATA[303.1236572265625]]></value></Data>
+<Data name="Altitude"><value><![CDATA[347]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:42:32]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:42:32]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78131119173486,37.95573316953526,347</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-WPA-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8F18E82]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-68]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[2]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95868928547758, -91.78243668758476]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[0]]></value></Data>
+<Data name="Course"><value><![CDATA[-1]]></value></Data>
+<Data name="Altitude"><value><![CDATA[371]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:33:27]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:33:27]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78243668758476,37.95868928547758,371</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[Avery]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[C43DC78D5FE6]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-70]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[2]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[24]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95418603140983, -91.77970235151861]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[8.729996681213379]]></value></Data>
+<Data name="Course"><value><![CDATA[267.273681640625]]></value></Data>
+<Data name="Altitude"><value><![CDATA[343]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:47]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:47]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77970235151861,37.95418603140983,343</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[RollaManorWIFI]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[62A44C665928]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-97]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 18, 24, 36, 54, 6, 9, 12, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[225]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.9587769662022, -91.781184365027]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[9.929435729980469]]></value></Data>
+<Data name="Course"><value><![CDATA[90]]></value></Data>
+<Data name="Altitude"><value><![CDATA[353]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:20]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:20]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.781184365027,37.9587769662022,353</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#openap</styleUrl>
+    <name><![CDATA[HardeesGuest]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[00907FA19CEB]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-92]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[4]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[139]]></value></Data>
+<Data name="Secure"><value><![CDATA[No]]></value></Data>
+<Data name="Location"><value><![CDATA[37.9542071180934, -91.77796165831751]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[7.25557279586792]]></value></Data>
+<Data name="Course"><value><![CDATA[269.5488586425781]]></value></Data>
+<Data name="Altitude"><value><![CDATA[342]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:25]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:25]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77796165831751,37.9542071180934,342</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-WPA-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[00246C30D164]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-75]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[147]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95876098647142, -91.77977538093089]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[11.97950553894043]]></value></Data>
+<Data name="Course"><value><![CDATA[90.86808776855469]]></value></Data>
+<Data name="Altitude"><value><![CDATA[355]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:31]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:32]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77977538093089,37.95876098647142,355</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[Coerver]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[200CC8010392]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-80]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 18, 24, 36, 54, 6, 9, 12, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[18]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95420531619583, -91.77825188384304]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[7.896449565887451]]></value></Data>
+<Data name="Course"><value><![CDATA[269.5488586425781]]></value></Data>
+<Data name="Altitude"><value><![CDATA[339]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:28]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:29]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77825188384304,37.95420531619583,339</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[Minas Tirith]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[08BD43D39C6A]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-99]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[229]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95420954256789, -91.7775711662398]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[0]]></value></Data>
+<Data name="Course"><value><![CDATA[89.54885864257812]]></value></Data>
+<Data name="Altitude"><value><![CDATA[345]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:37:28]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:37:28]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.7775711662398,37.95420954256789,345</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[HP-Print-33-Photosmart 7520]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[10604BC5DC33]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-99]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[245]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95509470630247, -91.7796372157445]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[16.1102294921875]]></value></Data>
+<Data name="Course"><value><![CDATA[103.359375]]></value></Data>
+<Data name="Altitude"><value><![CDATA[344]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:34:28]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:34:29]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.7796372157445,37.95509470630247,344</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#openap</styleUrl>
+    <name><![CDATA[OAKNET_WIFI]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[AC8674147C12]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-99]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[8]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[298]]></value></Data>
+<Data name="Secure"><value><![CDATA[No]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95832089918888, -91.78252345198416]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[10.97014427185059]]></value></Data>
+<Data name="Course"><value><![CDATA[9.522262573242188]]></value></Data>
+<Data name="Altitude"><value><![CDATA[350]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:03]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:03]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78252345198416,37.95832089918888,350</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[stl06]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[00226B8F29B0]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-90]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 18, 24, 36, 54, 6, 9, 12, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[208]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95419380929938, -91.77927851493678]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[8.11468505859375]]></value></Data>
+<Data name="Course"><value><![CDATA[268.9806213378906]]></value></Data>
+<Data name="Altitude"><value><![CDATA[342]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:43]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:43]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77927851493678,37.95419380929938,342</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#openap</styleUrl>
+    <name><![CDATA[MST-PUBLIC-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E2A42]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-90]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[237]]></value></Data>
+<Data name="Secure"><value><![CDATA[No]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95507002159763, -91.77910555162633]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[16.05451583862305]]></value></Data>
+<Data name="Course"><value><![CDATA[93.515625]]></value></Data>
+<Data name="Altitude"><value><![CDATA[342]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:34:31]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:34:31]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77910555162633,37.95507002159763,342</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#openap</styleUrl>
+    <name><![CDATA[MST-PUBLIC-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E2922]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-94]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[0]]></value></Data>
+<Data name="Secure"><value><![CDATA[No]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95418874829817, -91.77747082905077]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[3.617438077926636]]></value></Data>
+<Data name="Course"><value><![CDATA[272.4609375]]></value></Data>
+<Data name="Altitude"><value><![CDATA[344]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:19]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:20]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77747082905077,37.95418874829817,344</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[<Hidden Network>]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E29A5]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-99]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[425]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.9551035073008, -91.77835654475892]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[15.95039653778076]]></value></Data>
+<Data name="Course"><value><![CDATA[88.9453125]]></value></Data>
+<Data name="Altitude"><value><![CDATA[342]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:34:35]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:34:35]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77835654475892,37.9551035073008,342</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[RTLS1]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6C504D3FA469]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-91]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[0]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95723232714921, -91.78278193612641]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[9.179994583129883]]></value></Data>
+<Data name="Course"><value><![CDATA[353.8407897949219]]></value></Data>
+<Data name="Altitude"><value><![CDATA[349]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:42:52]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:42:52]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78278193612641,37.95723232714921,349</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[DQ]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[20AA4B0D8FF7]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-66]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 18, 24, 36, 54, 6, 9, 12, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[213]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95420940109073, -91.77759395306566]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[0]]></value></Data>
+<Data name="Course"><value><![CDATA[89.54885864257812]]></value></Data>
+<Data name="Altitude"><value><![CDATA[345]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:37:46]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:37:46]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77759395306566,37.95420940109073,345</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#openap</styleUrl>
+    <name><![CDATA[belkin.618.guests]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[EC1A59C4961B]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-83]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[35]]></value></Data>
+<Data name="Secure"><value><![CDATA[No]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95927170201946, -91.77902047530914]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[3.176347970962524]]></value></Data>
+<Data name="Course"><value><![CDATA[5.625]]></value></Data>
+<Data name="Altitude"><value><![CDATA[355]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:44]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:44]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77902047530914,37.95927170201946,355</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#openap</styleUrl>
+    <name><![CDATA[hpsetup]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[DAFEC2F6E849]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-88]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11]]></value></Data>
+<Data name="Age"><value><![CDATA[192]]></value></Data>
+<Data name="Secure"><value><![CDATA[No]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95823215093812, -91.78254233287589]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[10.97191143035889]]></value></Data>
+<Data name="Course"><value><![CDATA[9.522262573242188]]></value></Data>
+<Data name="Altitude"><value><![CDATA[350]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:02]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:02]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78254233287589,37.95823215093812,350</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[<Hidden Network>]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8F18E84]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-68]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[47]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95868928547758, -91.78243668758476]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[0]]></value></Data>
+<Data name="Course"><value><![CDATA[-1]]></value></Data>
+<Data name="Altitude"><value><![CDATA[371]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:33:27]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:33:27]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78243668758476,37.95868928547758,371</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-PSK-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8F18E80]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-69]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[6]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95868928547758, -91.78243668758476]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[0]]></value></Data>
+<Data name="Course"><value><![CDATA[-1]]></value></Data>
+<Data name="Altitude"><value><![CDATA[371]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:33:27]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:33:27]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78243668758476,37.95868928547758,371</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-PSK-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[00246C30E741]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-89]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[163]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95704307969469, -91.78291026511396]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[7.336177349090576]]></value></Data>
+<Data name="Course"><value><![CDATA[208.125]]></value></Data>
+<Data name="Altitude"><value><![CDATA[360]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:33:56]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:33:56]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78291026511396,37.95704307969469,360</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-WPA-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E2A43]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-90]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[235]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95507002159763, -91.77910555162633]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[16.05451583862305]]></value></Data>
+<Data name="Course"><value><![CDATA[93.515625]]></value></Data>
+<Data name="Altitude"><value><![CDATA[342]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:34:31]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:34:31]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77910555162633,37.95507002159763,342</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-WPA-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E25B1]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-99]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[429]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95631905223087, -91.78224662064167]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[13.80000972747803]]></value></Data>
+<Data name="Course"><value><![CDATA[309.0939025878906]]></value></Data>
+<Data name="Altitude"><value><![CDATA[350]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:42:40]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:42:40]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78224662064167,37.95631905223087,350</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-COER-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E2924]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-97]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[0]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95418874829817, -91.77747082905077]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[3.617438077926636]]></value></Data>
+<Data name="Course"><value><![CDATA[272.4609375]]></value></Data>
+<Data name="Altitude"><value><![CDATA[344]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:19]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:20]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77747082905077,37.95418874829817,344</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#openap</styleUrl>
+    <name><![CDATA[DQ-guest]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[20AA4B0D8FF9]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-65]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 18, 24, 36, 54, 6, 9, 12, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[245]]></value></Data>
+<Data name="Secure"><value><![CDATA[No]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95420960026888, -91.77756187247724]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[0]]></value></Data>
+<Data name="Course"><value><![CDATA[89.54885864257812]]></value></Data>
+<Data name="Altitude"><value><![CDATA[343]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:38:37]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:38:38]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77756187247724,37.95420960026888,343</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[westell7275]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[744401ADD827]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-82]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 18, 24, 36, 54, 6, 9, 12, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[221]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95420647047394, -91.77806597404924]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[7.240439414978027]]></value></Data>
+<Data name="Course"><value><![CDATA[269.5488586425781]]></value></Data>
+<Data name="Altitude"><value><![CDATA[341]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:26]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:26]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77806597404924,37.95420647047394,341</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#openap</styleUrl>
+    <name><![CDATA[MST-PUBLIC-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8F18EF1]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-83]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[456]]></value></Data>
+<Data name="Secure"><value><![CDATA[No]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95877208038053, -91.78055225886055]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[11.01110172271729]]></value></Data>
+<Data name="Course"><value><![CDATA[90.58041381835938]]></value></Data>
+<Data name="Altitude"><value><![CDATA[352]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:25]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:26]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78055225886055,37.95877208038053,352</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-WPA-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8986FA0]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-69]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[458]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95977356847185, -91.77904226825738]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[6.736030101776123]]></value></Data>
+<Data name="Course"><value><![CDATA[359.296875]]></value></Data>
+<Data name="Altitude"><value><![CDATA[359]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:55]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:55]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77904226825738,37.95977356847185,359</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#openap</styleUrl>
+    <name><![CDATA[OAKNET_WIFI]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[AC8674147C1A]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-81]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[9]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[370]]></value></Data>
+<Data name="Secure"><value><![CDATA[No]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95869066849161, -91.78238698289896]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[2.936864137649536]]></value></Data>
+<Data name="Course"><value><![CDATA[250.6640625]]></value></Data>
+<Data name="Altitude"><value><![CDATA[368]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:33:36]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:33:37]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78238698289896,37.95869066849161,368</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[Boss]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[4C60DECE6219]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-76]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[2]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[59]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95877400104595, -91.78079277495272]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[11.10896968841553]]></value></Data>
+<Data name="Course"><value><![CDATA[90.58041381835938]]></value></Data>
+<Data name="Altitude"><value><![CDATA[352]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:23]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:24]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78079277495272,37.95877400104595,352</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[<Hidden Network>]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E28B5]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-93]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[456]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95420964945026, -91.7775539509239]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[0]]></value></Data>
+<Data name="Course"><value><![CDATA[89.54885864257812]]></value></Data>
+<Data name="Altitude"><value><![CDATA[345]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:40:21]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:40:21]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.7775539509239,37.95420964945026,345</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-PSK-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[00246C30D160]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-74]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[184]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95875800221114, -91.77951446772113]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[11.31251525878906]]></value></Data>
+<Data name="Course"><value><![CDATA[88.98297882080078]]></value></Data>
+<Data name="Altitude"><value><![CDATA[355]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:33]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:33]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77951446772113,37.95875800221114,355</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-WPA-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E3780]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-90]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[812]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95776061251569, -91.78268412136639]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[13.0963077545166]]></value></Data>
+<Data name="Course"><value><![CDATA[190.546875]]></value></Data>
+<Data name="Altitude"><value><![CDATA[361]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:33:47]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:33:48]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78268412136639,37.95776061251569,361</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[Martens]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[08863B21B7DF]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-82]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 18, 24, 36, 54, 6, 9, 12, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[141]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95419789006419, -91.7789876664574]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[6.313517570495605]]></value></Data>
+<Data name="Course"><value><![CDATA[268.9806213378906]]></value></Data>
+<Data name="Altitude"><value><![CDATA[336]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:40]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:41]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.7789876664574,37.95419789006419,336</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#openap</styleUrl>
+    <name><![CDATA[HP-Print-22-Officejet Pro 8600]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[B4B52F0F3022]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-95]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[35]]></value></Data>
+<Data name="Secure"><value><![CDATA[No]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95420531619583, -91.77825188384304]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[7.896449565887451]]></value></Data>
+<Data name="Course"><value><![CDATA[269.5488586425781]]></value></Data>
+<Data name="Altitude"><value><![CDATA[339]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:28]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:28]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77825188384304,37.95420531619583,339</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[STJ_FCFP1]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6C504D3FA46B]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-91]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[0]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95723232714921, -91.78278193612641]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[9.179994583129883]]></value></Data>
+<Data name="Course"><value><![CDATA[353.8407897949219]]></value></Data>
+<Data name="Altitude"><value><![CDATA[349]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:42:52]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:42:52]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78278193612641,37.95723232714921,349</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[<Hidden Network>]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8F191F4]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-73]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[407]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.9587769662022, -91.781184365027]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[9.929435729980469]]></value></Data>
+<Data name="Course"><value><![CDATA[90]]></value></Data>
+<Data name="Altitude"><value><![CDATA[353]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:20]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:20]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.781184365027,37.9587769662022,353</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-WPA-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E2551]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-91]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[23]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95696491844762, -91.78301277578974]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[6.620546340942383]]></value></Data>
+<Data name="Course"><value><![CDATA[220.4296875]]></value></Data>
+<Data name="Altitude"><value><![CDATA[356]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:33:58]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:33:58]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78301277578974,37.95696491844762,356</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[<Hidden Network>]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8F18EF5]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-84]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[383]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95877208038053, -91.78055225886055]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[11.01110172271729]]></value></Data>
+<Data name="Course"><value><![CDATA[90.58041381835938]]></value></Data>
+<Data name="Altitude"><value><![CDATA[352]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:25]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:26]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78055225886055,37.95877208038053,352</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-WPA-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E2923]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-95]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[25]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.9542094098685, -91.77759254500415]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[0]]></value></Data>
+<Data name="Course"><value><![CDATA[89.54885864257812]]></value></Data>
+<Data name="Altitude"><value><![CDATA[345]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:38:03]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:38:03]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77759254500415,37.9542094098685,345</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#openap</styleUrl>
+    <name><![CDATA[MST-PUBLIC-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8F19171]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-84]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[193]]></value></Data>
+<Data name="Secure"><value><![CDATA[No]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95877400104595, -91.78079277495272]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[11.10896968841553]]></value></Data>
+<Data name="Course"><value><![CDATA[90.58041381835938]]></value></Data>
+<Data name="Altitude"><value><![CDATA[352]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:23]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:24]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78079277495272,37.95877400104595,352</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#openap</styleUrl>
+    <name><![CDATA[HQ-guest]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[26AA4B6655E3]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-87]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[3]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[93]]></value></Data>
+<Data name="Secure"><value><![CDATA[No]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95512172572396, -91.78020632069092]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[0.3368696570396423]]></value></Data>
+<Data name="Course"><value><![CDATA[0.775676965713501]]></value></Data>
+<Data name="Altitude"><value><![CDATA[342]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:42:19]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:42:19]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78020632069092,37.95512172572396,342</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#openap</styleUrl>
+    <name><![CDATA[OAKNET_WIFI]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[AC8674147C0A]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-76]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[8]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[260]]></value></Data>
+<Data name="Secure"><value><![CDATA[No]]></value></Data>
+<Data name="Location"><value><![CDATA[37.9587324103694, -91.78240357906724]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[0]]></value></Data>
+<Data name="Course"><value><![CDATA[-1]]></value></Data>
+<Data name="Altitude"><value><![CDATA[383]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:33:18]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:33:18]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78240357906724,37.9587324103694,383</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[<Hidden Network>]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E2925]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-97]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[0]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95420942871491, -91.77758950689167]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[0]]></value></Data>
+<Data name="Course"><value><![CDATA[89.54885864257812]]></value></Data>
+<Data name="Altitude"><value><![CDATA[345]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:37:41]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:37:42]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77758950689167,37.95420942871491,345</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[<Hidden Network>]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E2A45]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-91]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[231]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95507002159763, -91.77910555162633]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[16.05451583862305]]></value></Data>
+<Data name="Course"><value><![CDATA[93.515625]]></value></Data>
+<Data name="Altitude"><value><![CDATA[342]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:34:31]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:34:31]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77910555162633,37.95507002159763,342</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#openap</styleUrl>
+    <name><![CDATA[MCN-204A]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[0E3994974FBF]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-98]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[0]]></value></Data>
+<Data name="Secure"><value><![CDATA[No]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95515980696366, -91.77716909882783]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[3.693154811859131]]></value></Data>
+<Data name="Course"><value><![CDATA[150.46875]]></value></Data>
+<Data name="Altitude"><value><![CDATA[349]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:34:49]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:34:49]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77716909882783,37.95515980696366,349</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[LUDWIG]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[74440137262A]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-81]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 18, 24, 36, 54, 6, 9, 12, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[426]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95416093753207, -91.78011834148492]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[5.851685047149658]]></value></Data>
+<Data name="Course"><value><![CDATA[264.6203002929688]]></value></Data>
+<Data name="Altitude"><value><![CDATA[344]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:54]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:55]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78011834148492,37.95416093753207,344</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-WPA-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8F18EF2]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-80]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[432]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95877208038053, -91.78055225886055]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[11.01110172271729]]></value></Data>
+<Data name="Course"><value><![CDATA[90.58041381835938]]></value></Data>
+<Data name="Altitude"><value><![CDATA[352]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:25]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:26]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78055225886055,37.95877208038053,352</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-PSK-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8F191F0]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-66]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[390]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.9587769662022, -91.781184365027]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[9.929435729980469]]></value></Data>
+<Data name="Course"><value><![CDATA[90]]></value></Data>
+<Data name="Altitude"><value><![CDATA[353]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:20]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:20]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.781184365027,37.9587769662022,353</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[belkin.618]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[EC1A59C49618]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-82]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[37]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95927170201946, -91.77902047530914]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[3.176347970962524]]></value></Data>
+<Data name="Course"><value><![CDATA[5.625]]></value></Data>
+<Data name="Altitude"><value><![CDATA[355]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:44]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:44]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77902047530914,37.95927170201946,355</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-PSK-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E38A1]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-88]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[2]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95823215093812, -91.78254233287589]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[10.97191143035889]]></value></Data>
+<Data name="Course"><value><![CDATA[9.522262573242188]]></value></Data>
+<Data name="Altitude"><value><![CDATA[350]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:02]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:02]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78254233287589,37.95823215093812,350</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-PSK-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E25B0]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-92]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[385]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95670663010139, -91.78309785210693]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[8.584861755371094]]></value></Data>
+<Data name="Course"><value><![CDATA[183.515625]]></value></Data>
+<Data name="Altitude"><value><![CDATA[355]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:34:02]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:34:02]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78309785210693,37.95670663010139,355</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[Amish Society of West Rolla]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[98FC1175E5E7]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-84]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 18, 24, 36, 54, 6, 9, 12, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[229]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95415618944769, -91.78022157187692]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[3.46829891204834]]></value></Data>
+<Data name="Course"><value><![CDATA[315]]></value></Data>
+<Data name="Altitude"><value><![CDATA[343]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:57]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:57]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78022157187692,37.95415618944769,343</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#openap</styleUrl>
+    <name><![CDATA[print server CC1B36]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[AAAECE89CFEE]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-97]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11]]></value></Data>
+<Data name="Age"><value><![CDATA[454]]></value></Data>
+<Data name="Secure"><value><![CDATA[No]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95456610919088, -91.77720621236442]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[8.940398216247559]]></value></Data>
+<Data name="Course"><value><![CDATA[180]]></value></Data>
+<Data name="Altitude"><value><![CDATA[346]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:34:54]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:34:55]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77720621236442,37.95456610919088,346</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#openap</styleUrl>
+    <name><![CDATA[MST-PUBLIC-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8F18E81]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-69]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[4]]></value></Data>
+<Data name="Secure"><value><![CDATA[No]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95868928547758, -91.78243668758476]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[0]]></value></Data>
+<Data name="Course"><value><![CDATA[-1]]></value></Data>
+<Data name="Altitude"><value><![CDATA[371]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:33:27]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:33:27]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78243668758476,37.95868928547758,371</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[Jayhawk Network]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[002436A48183]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-95]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[0]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95576462991345, -91.78140311510468]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[14.39631366729736]]></value></Data>
+<Data name="Course"><value><![CDATA[128.3203125]]></value></Data>
+<Data name="Altitude"><value><![CDATA[356]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:34:17]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:34:17]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78140311510468,37.95576462991345,356</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#openap</styleUrl>
+    <name><![CDATA[Patient_Wireless]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6C504D3FA460]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-92]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[0]]></value></Data>
+<Data name="Secure"><value><![CDATA[No]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95723232714921, -91.78278193612641]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[9.179994583129883]]></value></Data>
+<Data name="Course"><value><![CDATA[353.8407897949219]]></value></Data>
+<Data name="Altitude"><value><![CDATA[349]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:42:52]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:42:52]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78278193612641,37.95723232714921,349</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[Hartman]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[00259C73E563]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-91]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[390]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.9564014030974, -91.7824227736255]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[9.959928512573242]]></value></Data>
+<Data name="Course"><value><![CDATA[121.640625]]></value></Data>
+<Data name="Altitude"><value><![CDATA[357]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:34:09]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:34:09]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.7824227736255,37.9564014030974,357</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#openap</styleUrl>
+    <name><![CDATA[HardeesWiFi]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[E091F5862878]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-83]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 18, 24, 36, 54, 6, 9, 12, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[9]]></value></Data>
+<Data name="Secure"><value><![CDATA[No]]></value></Data>
+<Data name="Location"><value><![CDATA[37.9542071180934, -91.77796165831751]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[7.25557279586792]]></value></Data>
+<Data name="Course"><value><![CDATA[269.5488586425781]]></value></Data>
+<Data name="Altitude"><value><![CDATA[342]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:25]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:25]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77796165831751,37.9542071180934,342</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-WPA-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8F191F2]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-69]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[386]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.9587769662022, -91.781184365027]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[9.929435729980469]]></value></Data>
+<Data name="Course"><value><![CDATA[90]]></value></Data>
+<Data name="Altitude"><value><![CDATA[353]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:20]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:20]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.781184365027,37.9587769662022,353</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-PSK-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8986FA1]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-69]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[456]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95977356847185, -91.77904226825738]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[6.736030101776123]]></value></Data>
+<Data name="Course"><value><![CDATA[359.296875]]></value></Data>
+<Data name="Altitude"><value><![CDATA[359]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:55]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:55]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77904226825738,37.95977356847185,359</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[<Hidden Network>]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E28B1]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-92]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[393]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95420954721494, -91.77757042578378]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[2.149247169494629]]></value></Data>
+<Data name="Course"><value><![CDATA[89.54885864257812]]></value></Data>
+<Data name="Altitude"><value><![CDATA[345]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:37:19]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:37:20]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77757042578378,37.95420954721494,345</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-COER-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8F18E83]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-69]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[0]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95868928547758, -91.78243668758476]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[0]]></value></Data>
+<Data name="Course"><value><![CDATA[-1]]></value></Data>
+<Data name="Altitude"><value><![CDATA[371]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:33:27]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:33:27]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78243668758476,37.95868928547758,371</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[<Hidden Network>]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8F191F5]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-73]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[406]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.9587769662022, -91.781184365027]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[9.929435729980469]]></value></Data>
+<Data name="Course"><value><![CDATA[90]]></value></Data>
+<Data name="Altitude"><value><![CDATA[353]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:20]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:20]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.781184365027,37.9587769662022,353</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[CenturyLink3042]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[2A285D376ED8]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-79]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 9, 18, 36, 54, 6, 12, 24, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[433]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.9542071180934, -91.77796165831751]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[7.25557279586792]]></value></Data>
+<Data name="Course"><value><![CDATA[269.5488586425781]]></value></Data>
+<Data name="Altitude"><value><![CDATA[342]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:25]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:25]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77796165831751,37.9542071180934,342</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-PSK-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E28B0]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-88]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[425]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.9542071180934, -91.77796165831751]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[7.25557279586792]]></value></Data>
+<Data name="Course"><value><![CDATA[269.5488586425781]]></value></Data>
+<Data name="Altitude"><value><![CDATA[342]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:25]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:25]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77796165831751,37.9542071180934,342</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-WPA-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[00246C30CE04]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-78]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[15]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95876292314269, -91.77990692238382]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[11.96736335754395]]></value></Data>
+<Data name="Course"><value><![CDATA[91.08604431152344]]></value></Data>
+<Data name="Altitude"><value><![CDATA[354]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:30]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:31]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77990692238382,37.95876292314269,354</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[AMD-2.4]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[98FC11787154]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-98]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 18, 24, 36, 54, 6, 9, 12, 48]]></value></Data>
+<Data name="Age"><value><![CDATA[420]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95448742280119, -91.77720990040757]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[8.93030834197998]]></value></Data>
+<Data name="Course"><value><![CDATA[180]]></value></Data>
+<Data name="Altitude"><value><![CDATA[347]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:34:55]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:34:56]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77720990040757,37.95448742280119,347</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[<Hidden Network>]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E2921]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-95]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[0]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95421782632479, -91.77721415510986]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[2.578420400619507]]></value></Data>
+<Data name="Course"><value><![CDATA[155.390625]]></value></Data>
+<Data name="Altitude"><value><![CDATA[345]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:15]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:15]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77721415510986,37.95421782632479,345</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[<Hidden Network>]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E2A41]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-92]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[238]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95507002159763, -91.77910555162633]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[16.05451583862305]]></value></Data>
+<Data name="Course"><value><![CDATA[93.515625]]></value></Data>
+<Data name="Altitude"><value><![CDATA[342]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:34:31]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:34:31]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77910555162633,37.95507002159763,342</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#openap</styleUrl>
+    <name><![CDATA[<Hidden Network>]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[02CAFECACA40]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-75]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[8]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[273]]></value></Data>
+<Data name="Secure"><value><![CDATA[No]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95868928547758, -91.78243668758476]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[0]]></value></Data>
+<Data name="Course"><value><![CDATA[-1]]></value></Data>
+<Data name="Altitude"><value><![CDATA[383]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:33:19]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:33:20]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78243668758476,37.95868928547758,383</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[pcrmc-sec0]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6C504D3FA46A]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-91]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[0]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95723232714921, -91.78278193612641]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[9.179994583129883]]></value></Data>
+<Data name="Course"><value><![CDATA[353.8407897949219]]></value></Data>
+<Data name="Altitude"><value><![CDATA[349]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:42:52]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:42:52]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78278193612641,37.95723232714921,349</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[hitler did nothing wrong]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[20C9D02091D3]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-79]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[31]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95428522403055, -91.78021939122118]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[3.508650302886963]]></value></Data>
+<Data name="Course"><value><![CDATA[0.5743745565414429]]></value></Data>
+<Data name="Altitude"><value><![CDATA[343]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:41:58]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:41:58]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78021939122118,37.95428522403055,343</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-WPA-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8986590]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-79]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[428]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95876995009402, -91.78028557485959]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[11.01000213623047]]></value></Data>
+<Data name="Course"><value><![CDATA[90.58041381835938]]></value></Data>
+<Data name="Altitude"><value><![CDATA[355]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:27]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:27]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78028557485959,37.95876995009402,355</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-WPA-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[6CF37F1E28B3]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-93]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[11]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[450]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.9542096379617, -91.77755579166842]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[0]]></value></Data>
+<Data name="Course"><value><![CDATA[89.54885864257812]]></value></Data>
+<Data name="Altitude"><value><![CDATA[345]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:40:58]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:40:58]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.77755579166842,37.9542096379617,345</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[<Hidden Network>]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8F18E85]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-68]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[46]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95868928547758, -91.78243668758476]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[0]]></value></Data>
+<Data name="Course"><value><![CDATA[-1]]></value></Data>
+<Data name="Altitude"><value><![CDATA[371]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:33:27]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:33:27]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78243668758476,37.95868928547758,371</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[MST-WPA-N]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[00246C30E7F0]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-75]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[1]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 6, 9, 11, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[36]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95877505431407, -91.78092463276698]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[11.05961227416992]]></value></Data>
+<Data name="Course"><value><![CDATA[90.58041381835938]]></value></Data>
+<Data name="Altitude"><value><![CDATA[352]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:22]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:23]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78092463276698,37.95877505431407,352</coordinates>
+    </Point>
+</Placemark><Placemark>
+    <styleUrl>#secureap</styleUrl>
+    <name><![CDATA[<Hidden Network>]]></name>
+    <ExtendedData>
+        <Data name="BSSID"><value><![CDATA[D8C7C8F19175]]></value></Data>
+<Data name="RSSI"><value><![CDATA[-87]]></value></Data>
+<Data name="Noise"><value><![CDATA[-92]]></value></Data>
+<Data name="Mode"><value><![CDATA[Infrastructure]]></value></Data>
+<Data name="Channel"><value><![CDATA[6]]></value></Data>
+<Data name="Rates"><value><![CDATA[1, 2, 5, 11, 6, 9, 12, 18, 24, 36, 48, 54]]></value></Data>
+<Data name="Age"><value><![CDATA[187]]></value></Data>
+<Data name="Secure"><value><![CDATA[Yes]]></value></Data>
+<Data name="Location"><value><![CDATA[37.95877400104595, -91.78079277495272]]></value></Data>
+<Data name="Accuracy"><value><![CDATA[5]]></value></Data>
+<Data name="Speed"><value><![CDATA[11.10896968841553]]></value></Data>
+<Data name="Course"><value><![CDATA[90.58041381835938]]></value></Data>
+<Data name="Altitude"><value><![CDATA[352]]></value></Data>
+<Data name="Location Time"><value><![CDATA[01 May 2014 18:43:23]]></value></Data>
+<Data name="Device Time"><value><![CDATA[01 May 2014 18:43:24]]></value></Data>
+
+    </ExtendedData>
+    <Point>
+        <coordinates>-91.78079277495272,37.95877400104595,352</coordinates>
+    </Point>
+</Placemark>
+</Folder>
+<Placemark>
+    <styleUrl>#dltrackline</styleUrl>
+    <name>Route Travelled</name>
+    <LineString><coordinates>-91.78236334593201,37.95878668319244,353 -91.78236334593201,37.95878668319244,351 -91.78236334593201,37.95878668319244,351 -91.78236334593201,37.95878668319244,349 -91.78236334593201,37.95878668319244,350 -91.78240357906724,37.9587324103694,359 -91.78240357906724,37.9587324103694,383 -91.78243668758476,37.95868928547758,383 -91.78243668758476,37.95868928547758,379 -91.78243668758476,37.95868928547758,378 -91.78243668758476,37.95868928547758,379 -91.78243668758476,37.95868928547758,375 -91.78243668758476,37.95868928547758,373 -91.78243668758476,37.95868928547758,371 -91.78243668758476,37.95868928547758,371 -91.78243668758476,37.95868928547758,371 -91.78243668758476,37.95868928547758,370 -91.78243668758476,37.95868928547758,370 -91.78243668758476,37.95868928547758,370 -91.78243668758476,37.95868928547758,369 -91.78243668758476,37.95868928547758,369 -91.78243668758476,37.95868928547758,369 -91.78243668758476,37.95868928547758,369 -91.78243668758476,37.95868928547758,369 -91.78238698289896,37.95869066849161,368 -91.78241925322617,37.9586816579457,368 -91.78244993099177,37.95864569958109,367 -91.78248496734703,37.95860798101682,367 -91.78251187325621,37.95851766601015,366 -91.78251857877875,37.95843020085055,364 -91.78253819243217,37.95833435378778,363 -91.78258362234736,37.95824630189497,362 -91.78260432564819,37.95814429413337,362 -91.78261572503651,37.95800448398847,362 -91.78265620962883,37.9578795517217,361 -91.78268412136639,37.95776061251569,361 -91.78269334145988,37.95765495862621,360 -91.78271681078876,37.95754255730468,361 -91.78274539307857,37.95743577185828,360 -91.78275167950595,37.95734134971905,361 -91.78278269254768,37.9572664155047,362 -91.78280666479075,37.95718288983959,362 -91.78284874194468,37.95712786264527,362 -91.78287615076805,37.95706453736681,362 -91.78291026511396,37.95704307969469,360 -91.78296256818975,37.9570113961007,358 -91.78301277578974,37.95696491844762,356 -91.78304957234467,37.9569236375745,356 -91.78307765172029,37.95685381632108,356 -91.78309181713665,37.95678332451541,356 -91.78309785210693,37.95670663010139,355 -91.78308712327087,37.95663400091041,355 -91.78293935031796,37.95663048051107,356 -91.78285687239075,37.95658329039622,356 -91.78274941639209,37.95653848912377,357 -91.78265042611564,37.95650412332076,357 -91.78255126820112,37.95646208807636,357 -91.7824227736255,37.9564014030974,357 -91.78228355021382,37.95632944445867,357 -91.78217391492034,37.95624746944565,356 -91.78206025631333,37.95617245141226,356 -91.78191994325424,37.95608628544766,356 -91.78179178395474,37.95600548390109,356 -91.78166463048363,37.95592258687872,356 -91.78153362133706,37.95584220442731,356 -91.78140311510468,37.95576462991345,356 -91.78127411761487,37.9556844151001,356 -91.78114369520152,37.95560927133817,357 -91.78101419479752,37.95553106818158,356 -91.78077321508134,37.95545056000162,355 -91.78062611268068,37.95540898576188,353 -91.78046853290105,37.95533732048977,351 -91.78030433141792,37.9552784795295,349 -91.78017248408104,37.95520995747108,349 -91.77999193788672,37.95516410846073,347 -91.77981407390142,37.95512823391515,346 -91.7796372157445,37.95509470630247,344 -91.77944384523833,37.9550712788831,344 -91.77928031430746,37.95507463164437,344 -91.77910555162633,37.95507002159763,342 -91.77890664906407,37.95507911596257,343 -91.77873867572451,37.95509009625572,343 -91.77855695606375,37.9550929461028,343 -91.77835654475892,37.9551035073008,342 -91.77817474127913,37.95511712789345,342 -91.77804306158031,37.95512320477325,341 -91.77789344460869,37.95512027110714,341 -91.7777687218895,37.95512303713519,343 -91.77765309868846,37.95514062843571,344 -91.77755540449652,37.95514232923808,345 -91.77745629798665,37.95514492975138,346 -91.77738378273716,37.95514839512303,346 -91.77735197603397,37.95515083505643,347 -91.77734622215212,37.95515128891346,346 -91.77734622215212,37.95515128891346,347 -91.77734622215212,37.95515128891346,347 -91.7771716636902,37.9551624179265,348 -91.77716909882783,37.95515980696366,349 -91.77714611777357,37.95494875691024,348 -91.77716597867069,37.95482038372128,347 -91.7771686488545,37.95474137606259,347 -91.77718853075449,37.95464473255277,346 -91.77720621236442,37.95456610919088,346 -91.77720990040757,37.95448742280119,347 -91.77719717417018,37.95449049112143,347 -91.77730947741472,37.95453651346076,345 -91.77735080019735,37.95452456924874,345 -91.77738784820937,37.95451606161702,345 -91.77743168556296,37.95451069719899,345 -91.77749421456062,37.95450566805709,344 -91.77755640828215,37.954504117405,344 -91.77761147738599,37.95450013600099,344 -91.77766889342271,37.95450495559532,344 -91.77771465861403,37.95449640605408,344 -91.77775145516897,37.95449678323973,342 -91.7777840607723,37.95449946544874,341 -91.7778136488905,37.95449778906811,341 -91.77783460364843,37.95448756314624,341 -91.77784533248449,37.95447142798263,340 -91.77784373992289,37.95445302970517,342 -91.77783175380135,37.95443450569916,343 -91.7778189294895,37.95442415404874,344 -91.77780912266279,37.95441958591152,343 -91.77780292005444,37.95441841244507,344 -91.77780292005444,37.95441841244507,343 -91.77780292005444,37.95441841244507,343 -91.77780292005444,37.95441841244507,343 -91.77780292005444,37.95441841244507,343 -91.77780292005444,37.95441841244507,343 -91.77780292005444,37.95441841244507,343 -91.77780292005444,37.95441841244507,344 -91.77780292005444,37.95441841244507,344 -91.77780292005444,37.95441841244507,344 -91.77780292005444,37.95441841244507,344 -91.77780292005444,37.95441841244507,344 -91.77780292005444,37.95441841244507,344 -91.77780292005444,37.95441841244507,344 -91.77780292005444,37.95441841244507,344 -91.77780292005444,37.95441841244507,344 -91.77780292005444,37.95441841244507,344 -91.77780292005444,37.95441841244507,344 -91.77780292005444,37.95441841244507,344 -91.77780292005444,37.95441841244507,344 -91.77780292005444,37.95441841244507,344 -91.77780292005444,37.95441841244507,344 -91.77780292005444,37.95441841244507,344 -91.77780292005444,37.95441841244507,344 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77780292005444,37.95441841244507,345 -91.77779981875027,37.95440357647646,345 -91.77779898055995,37.95439490120668,345 -91.77779730417932,37.95438283126611,345 -91.77779554397965,37.95437407217729,345 -91.77779420287514,37.954369336402,345 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779420287514,37.954369336402,346 -91.77779059865678,37.95435613490451,346 -91.77778766499067,37.95434557370651,346 -91.77777861253524,37.95432885180968,346 -91.77776419566179,37.95431095644641,346 -91.77774550401772,37.954295324197,346 -91.77771876574658,37.95428719375092,346 -91.77768744681089,37.95420882059548,346 -91.77765749460377,37.95420900660697,346 -91.77762687921131,37.95420919662008,346 -91.77759945450816,37.9542093668832,346 -91.77758129066206,37.95420947970349,345 -91.77757042578378,37.95420954721494,345 -91.77756621093067,37.95420957329011,345 -91.77756563827643,37.95420957690449,345 -91.77756885237613,37.95420955689631,345 -91.77757214783924,37.95420953650088,345 -91.7775723986415,37.95420953495187,345 -91.77757211689823,37.95420953662997,345 -91.77757194516744,37.95420953766264,345 -91.77757324698177,37.95420952965938,345 -91.7775711662398,37.95420954256789,345 -91.77759438296562,37.95420939837994,345 -91.77759557951504,37.9542093910221,345 -91.77759518906896,37.95420939334562,345 -91.77759385156605,37.95420940173615,345 -91.77759333440918,37.95420940496327,344 -91.77759524653084,37.95420939308745,344 -91.77759571522984,37.9542093901185,344 -91.77759238948056,37.9542094107721,344 -91.77759407208214,37.95420940031621,345 -91.77759253174372,37.9542094098685,345 -91.77759341937417,37.95420940444694,345 -91.77759863596293,37.9542093720466,345 -91.77758950689167,37.95420942871491,345 -91.77759375808819,37.95420940225249,345 -91.77759794494705,37.95420937630641,345 -91.77759222429813,37.95420941180478,345 -91.77759342477657,37.95420940431785,345 -91.77759395306566,37.95420940109073,345 -91.7775947427981,37.95420939618549,345 -91.77759349926419,37.95420940393059,345 -91.77759415524633,37.95420939979986,345 -91.7775941871696,37.95420939967079,345 -91.77759278221856,37.95420940831948,345 -91.77759230762604,37.95420941128844,345 -91.77759358930416,37.95420940328516,345 -91.7776011996466,37.95420935604006,345 -91.77759342444915,37.95420940431785,345 -91.777591764112,37.95420941464464,345 -91.77759406389669,37.95420940044529,345 -91.77759457679713,37.95420939721818,345 -91.77759122731004,37.95420941800086,345 -91.77759413281819,37.95420939992895,345 -91.77759627216801,37.9542093866332,345 -91.77759394406166,37.95420940109073,345 -91.77759254500415,37.9542094098685,345 -91.77759324747967,37.95420940547961,345 -91.77759473084734,37.95420939631457,345 -91.77756494447749,37.9542095811643,345 -91.77756522540221,37.9542095794862,345 -91.77756259230591,37.9542095957509,344 -91.77756650184165,37.95420957148292,343 -91.77756581426365,37.95420957574272,343 -91.77756519888135,37.95420957961527,343 -91.77756451130335,37.95420958387508,343 -91.77756671302632,37.95420957019206,343 -91.7775657861057,37.9542095760009,343 -91.77756286635486,37.95420959407279,342 -91.7775653753597,37.95420957845351,342 -91.77756533983484,37.95420957871168,342 -91.77756574206796,37.95420957625906,342 -91.7775649808209,37.95420958090612,342 -91.77756598746782,37.95420957471004,342 -91.7775677098507,37.95420956399598,342 -91.77756449935259,37.95420958400416,342 -91.77756789549676,37.95420956283422,342 -91.77756387905902,37.95420958774763,342 -91.77756552777282,37.95420957754992,342 -91.77756628787392,37.95420957290285,342 -91.77756624842004,37.95420957303194,342 -91.77756455812414,37.95420958361691,342 -91.77756517678063,37.95420957974436,342 -91.7775575810083,37.95420962686038,342 -91.77756762946956,37.95420956451233,342 -91.77756736688025,37.95420956619043,342 -91.77756361254069,37.95420958942573,342 -91.77756474229682,37.95420958245514,342 -91.77756557230168,37.95420957729174,342 -91.7775660594998,37.95420957432279,342 -91.77756187247724,37.95420960026888,343 -91.77756546179808,37.95420957793717,343 -91.77756650658921,37.95420957148292,342 -91.7775656903359,37.95420957651723,342 -91.7775675271514,37.95420956515775,342 -91.77756597666303,37.95420957483913,342 -91.7775629775133,37.95420959342736,342 -91.77756658042199,37.95420957096658,342 -91.77756339480766,37.95420959084567,342 -91.7775466398416,37.95420969488817,342 -91.77754341444597,37.95420971489635,343 -91.77753207841306,37.95420978524768,342 -91.77753539614059,37.95420976459408,342 -91.77753492809643,37.95420976756303,342 -91.77753361105715,37.95420977569539,342 -91.77753370011487,37.95420977517905,342 -91.77753175787075,37.95420978718395,342 -91.77752991385205,37.95420979867252,342 -91.77753278989258,37.95420978085878,342 -91.77753345029487,37.95420977672806,342 -91.777533557688,37.95420977608264,342 -91.77753435380509,37.95420977117741,342 -91.77753299600226,37.95420977956793,342 -91.77753343850782,37.95420977685715,343 -91.77753319114345,37.95420977827709,343 -91.77753313941139,37.95420977866434,343 -91.77753388379642,37.95420977401728,343 -91.77753519346879,37.95420976588493,343 -91.77753181402295,37.95420978692578,343 -91.77753321258933,37.95420977814801,343 -91.77753431205929,37.95420977143557,343 -91.77753353329535,37.95420977621173,343 -91.77753712932827,37.95420975388002,344 -91.7775290334248,37.95420980409408,344 -91.77753054380446,37.95420979479997,343 -91.77753157631741,37.95420978834572,343 -91.77753320145712,37.95420977827709,343 -91.77753116900931,37.95420979092741,343 -91.77753226716959,37.9542097840859,343 -91.77753140933419,37.9542097893784,343 -91.77753537338504,37.95420976472316,343 -91.77752994250113,37.95420979854343,343 -91.77753382748051,37.95420977440453,343 -91.77752969251742,37.95420980009245,343 -91.77753105261218,37.95420979157284,343 -91.77753351135834,37.95420977634081,343 -91.77753048208615,37.95420979518723,343 -91.77753268921151,37.95420978150421,343 -91.7775282517141,37.95420980899932,343 -91.77753115836822,37.95420979092741,343 -91.77753497851882,37.95420976717578,343 -91.77753442043468,37.95420977066107,343 -91.77753247426153,37.95420978279506,343 -91.77753036306967,37.95420979583265,343 -91.77753925492652,37.95420974071335,343 -91.77754590757104,37.95420969940616,343 -91.77755563106984,37.95420963899437,343 -91.77755532215087,37.95420964093065,343 -91.77755126969714,37.95420966610222,343 -91.77755597174837,37.95420963692901,343 -91.77755485443413,37.95420964377051,343 -91.77755584340048,37.95420963770352,343 -91.77755621452889,37.95420963537999,342 -91.77755612841793,37.95420963589633,341 -91.7775567359422,37.95420963215287,341 -91.77756019773369,37.95420961059568,341 -91.77755711165446,37.95420962982934,340 -91.77755564744075,37.95420963886529,341 -91.77755530283321,37.95420964105973,343 -91.77755614495254,37.95420963576725,343 -91.77755510245333,37.95420964235058,343 -91.7775560699738,37.95420963628359,343 -91.77755747869014,37.95420962750581,344 -91.77755485901798,37.95420964377051,344 -91.77755798160433,37.95420962440777,344 -91.77755868522581,37.95420962001888,344 -91.77755557688215,37.95420963938163,344 -91.77755426377189,37.95420964751398,344 -91.7775635910948,37.95420958955481,344 -91.77755824075575,37.95420962285874,344 -91.77755522032385,37.95420964157607,344 -91.77755630718821,37.95420963486365,344 -91.77755745740797,37.9542096276349,345 -91.77755673676074,37.95420963215287,345 -91.77755494971279,37.95420964325418,345 -91.77755788403374,37.9542096250532,345 -91.77755357930437,37.95420965177379,345 -91.77755471315322,37.95420964467412,345 -91.77755597289433,37.95420963692901,345 -91.77755734363018,37.9542096284094,345 -91.77755631913897,37.95420963473457,345 -91.77755417962544,37.95420964803032,345 -91.77755498589249,37.95420964299601,345 -91.77755572471142,37.95420963847803,345 -91.77755239257749,37.95420965913164,345 -91.77755690210688,37.95420963112019,345 -91.77754940439627,37.95420967771987,345 -91.77755680404516,37.95420963176561,345 -91.77755509164854,37.95420964235058,345 -91.77755606047867,37.95420963628359,345 -91.77755623237317,37.95420963525091,345 -91.77755849548703,37.95420962118065,345 -91.77755616852664,37.95420963563816,345 -91.77755280332349,37.95420965654993,345 -91.7775539509239,37.95420964945026,345 -91.77755612710826,37.95420963589633,345 -91.77755597895157,37.95420963679993,345 -91.77755710052224,37.95420962982934,345 -91.77755286586034,37.95420965616267,345 -91.77755506512767,37.95420964247967,345 -91.7775588152108,37.95420961924437,345 -91.77755637496375,37.95420963434731,345 -91.77755788485229,37.9542096250532,345 -91.77755263601284,37.95420965758262,345 -91.77755568345674,37.9542096387362,345 -91.77755581426027,37.95420963783261,345 -91.77755531281946,37.95420964093065,345 -91.77755630505999,37.95420963486365,345 -91.77755723607333,37.95420962905482,345 -91.77755541841179,37.95420964028523,345 -91.77755487211471,37.95420964377051,345 -91.7775556176457,37.95420963912346,345 -91.77755565529878,37.95420963886529,345 -91.77755739961867,37.95420962802214,345 -91.77755578904907,37.95420963809078,345 -91.77755492597498,37.95420964338327,345 -91.77755313810849,37.95420965448457,345 -91.77755797571081,37.95420962440777,345 -91.77755634975256,37.95420963460548,345 -91.77755588465516,37.95420963744535,345 -91.7775548919235,37.95420964364143,345 -91.77755670058104,37.95420963241104,345 -91.77755365984922,37.95420965125744,345 -91.77755129376237,37.95420966597313,345 -91.77755866017833,37.95420962014796,345 -91.77755399627131,37.95420964919208,345 -91.77755453487407,37.95420964583588,345 -91.77755853559574,37.95420962092247,345 -91.77755676508241,37.95420963202378,345 -91.77755072470973,37.95420966945843,345 -91.77755930175408,37.95420961627541,345 -91.77755579166842,37.9542096379617,345 -91.7775559650363,37.95420963692901,345 -91.77755622009499,37.95420963537999,345 -91.77755934088054,37.95420961601724,345 -91.77755814875127,37.95420962337509,345 -91.7775564988915,37.9542096335728,345 -91.77755578217329,37.95420963809078,345 -91.77752238143512,37.95420984540128,344 -91.77751452372831,37.95420989419542,344 -91.77749005741134,37.95421004612845,343 -91.77745251172382,37.95421027925595,343 -91.77740963681572,37.95421067941945,346 -91.77735386278073,37.95421139442124,347 -91.77730618186615,37.95421200576777,345 -91.77726955704202,37.95421247537897,346 -91.77724390612639,37.95421280428754,346 -91.77722017584529,37.95421310841177,345 -91.77721415510986,37.95421782632479,345 -91.7772297655176,37.95419515875423,345 -91.77724572035369,37.95419116806386,344 -91.77738768057131,37.95418091121871,344 -91.77747082905077,37.95418874829817,344 -91.77755221733057,37.95419390316862,343 -91.77763838329517,37.95419733974892,343 -91.77772793287659,37.95420856926699,343 -91.77781260434131,37.95420804350378,343 -91.77787336626352,37.95420766631741,342 -91.77796165831751,37.9542071180934,342 -91.77806597404924,37.95420647047394,341 -91.77816748053374,37.95420584028096,339 -91.77825188384304,37.95420531619583,339 -91.77832863588264,37.95420483961399,337 -91.77840185328023,37.95420438510568,337 -91.77845819726826,37.95420403528531,336 -91.77848900919344,37.95420384398133,335 -91.77851908393677,37.95420365719533,335 -91.77855207523862,37.95420345246651,335 -91.77860357597638,37.95420313259385,335 -91.77861965089505,37.95420303281114,335 -91.77861782791297,37.95420304417063,336 -91.7788148542877,37.95420031466805,334 -91.77889570797561,37.95419918026894,336 -91.7789876664574,37.95419789006419,336 -91.77908659264176,37.95419650201296,335 -91.77917216004516,37.95419530152226,336 -91.77927851493678,37.95419380929938,342 -91.77938852704756,37.95419221832642,341 -91.77949017690025,37.95419040493992,341 -91.77960608413287,37.95418833725586,343 -91.77970235151861,37.95418603140983,343 -91.77978211772825,37.95418303637869,344 -91.77989193449321,37.95417714416251,344 -91.77998297833255,37.9541709887414,343 -91.78003503060609,37.95416712367626,343 -91.78009230323369,37.95416287096842,343 -91.78015433324617,37.95415826495445,343 -91.78011834148492,37.95416093753207,344 -91.78014729506685,37.95415878761997,343 -91.78016687395703,37.95416630745535,342 -91.78022157187692,37.95415618944769,343 -91.78021939122118,37.95428522403055,343 -91.78021815161628,37.95438273673823,343 -91.78021731997433,37.95444810558528,343 -91.78021646279376,37.95451554592159,343 -91.78021554471343,37.95458452875386,343 -91.7802138702973,37.95468204545308,343 -91.78021244733827,37.95476490621167,343 -91.78021121690108,37.9548365501325,344 -91.78021016916318,37.95489759297805,342 -91.78020899111289,37.95496621221009,342 -91.78020831728645,37.95500545079494,342 -91.7802078078239,37.95503508980328,341 -91.78020731276774,37.95506392112424,340 -91.78020708292024,37.9550773127613,340 -91.78020717525214,37.95507195424797,339 -91.78020700564957,37.95508181338553,339 -91.78020637045847,37.955118800436,339 -91.78020633902634,37.95512063161308,340 -91.78020631938125,37.95512180136681,340 -91.78020633968117,37.95512061147608,341 -91.78020633902634,37.95512063135492,342 -91.78020632069092,37.95512172572396,342 -91.780206376352,37.95511845578331,342 -91.78020631676191,37.95512195704139,342 -91.78020438106614,37.95523031911508,342 -91.78020368693979,37.9552691530123,342 -91.78038724210637,37.95533324456849,343 -91.78049390575325,37.95536868611116,344 -91.78059124780702,37.95540103016341,344 -91.78071091388119,37.95544494208897,344 -91.78082399426785,37.95549354175726,345 -91.7809417580429,37.95554677881677,346 -91.78106059051061,37.95560534152552,347 -91.78119322496059,37.95567247887556,347 -91.78131119173486,37.95573316953526,347 -91.78142692748224,37.95580420737435,348 -91.78154442015511,37.95587635679952,349 -91.78166529440205,37.95595004067993,349 -91.78178652422503,37.95602841170496,349 -91.78188461737591,37.95609228315979,349 -91.78203221286822,37.95618529807547,349 -91.78215181083942,37.95625951397764,349 -91.78224662064167,37.95631905223087,350 -91.78233737569826,37.95637746562237,350 -91.78243876136548,37.95644318366568,350 -91.78252279190929,37.95650053617104,349 -91.78256705163221,37.95657498513285,350 -91.78261329681845,37.95665945507038,349 -91.78265497779648,37.95673802179908,349 -91.78265412912879,37.95682026775184,349 -91.78265935472155,37.95689201448111,349 -91.78272165911039,37.95696112867952,349 -91.78275517690054,37.95706193479589,349 -91.78276959704817,37.95714217267807,349 -91.78278193612641,37.95723232714921,349 -91.7827614286216,37.957316663637,348 -91.78272928533261,37.95744005376132,348 -91.78270553769835,37.95753737279263,348 -91.78268056683009,37.95764098352045,348 -91.78265528491465,37.95774588592258,348 -91.78263101930497,37.95784657040247,349 -91.78260658867657,37.95794794092527,349 -91.78258518273651,37.95804144218129,350 -91.78256337996572,37.95813685005994,350 -91.78254233287589,37.95823215093812,350 -91.78252345198416,37.95832089918888,350 -91.78250661680067,37.95840003104933,351 -91.78248790420184,37.95848798862676,350 -91.78247339958034,37.95856785553169,351 -91.78246174873493,37.95863766930057,351 -91.78240239372826,37.95875551309014,352 -91.78234480067508,37.95875504840535,352 -91.78224473536829,37.95875850302992,352 -91.78216912994685,37.95875993733356,351 -91.78207578894217,37.95876170723739,352 -91.78198421403067,37.95876685224635,353 -91.78192987572402,37.95877061871279,352 -91.78174506916548,37.95877277378206,353 -91.78165144199738,37.95877386474067,352 -91.78152551110543,37.95877533208773,352 -91.78141116753977,37.9587766646784,352 -91.7812961684831,37.9587769662022,353 -91.781184365027,37.9587769662022,353 -91.78105471008166,37.95877609364187,352 -91.78092463276698,37.95877505431407,352 -91.78079277495272,37.95877400104595,352 -91.78067836721311,37.95877308718096,352 -91.78055225886055,37.95877208038053,352 -91.78042171202833,37.95877103743852,353 -91.78028557485959,37.95876995009402,355 -91.78024397442641,37.95876961759171,354 -91.7800760652608,37.95876553101427,354 -91.77990692238382,37.95876292314269,354 -91.77977538093089,37.95876098647142,355 -91.77964825458048,37.95875946749328,355 -91.77951446772113,37.95875800221114,355 -91.77939072942536,37.95875973390821,354 -91.77928751791114,37.95876120693494,355 -91.77919517680039,37.95876298096919,354 -91.77912561311766,37.95876914313493,355 -91.77905669929642,37.95877750954363,355 -91.7790433579048,37.95907422438074,355 -91.77903505982066,37.95913138896037,354 -91.77902257078493,37.95919127765853,353 -91.77902910866941,37.95924559239108,353 -91.77901502707208,37.95925259128023,356 -91.77902047530914,37.95927170201946,355 -91.77902768374587,37.95928905255902,356 -91.77903179087842,37.95931767675835,357 -91.77903170705939,37.95934223573465,357 -91.77902659409845,37.95938049912262,356 -91.77902701319361,37.95942408501912,357 -91.7790293601265,37.95946591071594,357 -91.77902215168977,37.9595284397136,357 -91.77902240314687,37.95958610720742,358 -91.77903296434486,37.95963702726919,358 -91.77904184916223,37.95970135837603,358 -91.77904226825738,37.95977356847185,359 -91.7790433579048,37.95983857013095,359 -91.77905425437892,37.95988085683245,359 -91.77909708590413,37.95990868475098,361 -91.77914368928576,37.95993986543078,359 -91.77918735900128,37.95997703917134,359 -91.77923287273551,37.95999774247218,359 -91.77930143670345,37.95999300669688,359 -91.77936136731113,37.95999397061575,359 -91.77942104646171,37.95999539553929,359 -91.77948491656387,37.95999438971091,359 -91.77954744556153,37.95999057594496,358 -91.77959891044701,37.95998831283111,358 -91.7796580866834,37.95998190067518,358 -91.77971768201495,37.95997926037568,358 -91.77979462788606,37.95998726509321,358 -91.77984743387604,37.95996987264413,356 -91.77990484991277,37.9599626642074,356 -91.779953045856,37.9599600239079,356 -91.78001666450108,37.95994569085348,357 -91.78003937945867,37.95995000753361,357 -91.78007693038488,37.9599515581857,357 -91.7800809536984,37.95995294119972,358 -91.78005991512144,37.95995101336199,356 -91.78006620154882,37.95995046853829,355 -91.78006972194815,37.95995306692827,355 -91.78006972194815,37.95995306692827,356 -91.78006972194815,37.95995306692827,357 -91.78006972194815,37.95995306692827,357 -91.78006972194815,37.95995306692827,357 -91.78006972194815,37.95995306692827,358 -91.78006972194815,37.95995306692827,358 -91.78006972194815,37.95995306692827,358 -91.78006972194815,37.95995306692827,357 </coordinates></LineString>
+</Placemark>
+</Document>
+</kml>
